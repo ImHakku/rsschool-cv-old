@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ImHakku.github.io/rsschool-cv/cv
