@@ -1,1 +1,1 @@
-https://ImHakku.github.io/rsschool-cv/cv
+https://ImHakku.github.io/rsschool-cv/
