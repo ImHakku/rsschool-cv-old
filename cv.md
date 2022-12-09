@@ -1,16 +1,17 @@
-Oleg Lipinskiy
-Kontacts
-Location: Mykolaiv, Ukraine
-Phone: +380-99-368-39-61
-Email: lipinskii97@gmail.com
-Telegham: @im_hakku
-Discord rs-school: Hakku (@Imhakku)
-GitHub: [ImHakku](https://github.com/ImHakku)
-About Me
+#Oleg Lipinskiy
+##Kontacts
+__Location:__ Mykolaiv, Ukraine
+__Phone:__ +380-99-368-39-61
+__Email:__ lipinskii97@gmail.com
+__Telegham:__ @im_hakku
+__Discord rs-school:__ Hakku (@Imhakku)
+__GitHub:__ [ImHakku](https://github.com/ImHakku)
+##About Me
 I am now at the beginning of my journey of learning programming and web development. I am currently engaged in self-education at the rs-school course. Wish me good luck )
-Skills
-Basic HTML/CSS/Git/C
-Code Example
+##Skills
+__Basic__ HTML/CSS/Git/C
+##Code Example
+```
 void selection_sort(int array[], int array_size)
 {
     for (int i = 0; i < array_size; i++) {
@@ -31,11 +32,12 @@ void selection_sort(int array[], int array_size)
     }
     return;
 }
-Experience
-Education
-University: Admiral Makarov National University of Shipbuilding, Information management systems and technologies 
-Courses:
+```
+##Experience
+##Education
+__University:__ Admiral Makarov National University of Shipbuilding, Information management systems and technologies 
+##Courses:
 CS50
 RS-school
-English:
+##English:
 Pre-Intermediate
