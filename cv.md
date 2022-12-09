@@ -1,5 +1,5 @@
-# Oleg Lipinskiy<br>
-## Kontacts<br>
+# Oleg Lipinskiy <br>
+## Contacts <br>
 __Location:__ Mykolaiv, Ukraine<br>
 __Phone:__ +380-99-368-39-61<br>
 __Email:__ lipinskii97@gmail.com<br>
